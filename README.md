@@ -3,3 +3,7 @@
 ![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/77d0fdb35802c2a276c0252c26c268e37c8f9f9d/Ejercicio%201%20-%20Sesion%202%20P1.jpeg)
 ![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/77d0fdb35802c2a276c0252c26c268e37c8f9f9d/Ejercicio%201%20-%20Sesion%202%20P2.jpeg)
 ![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/77d0fdb35802c2a276c0252c26c268e37c8f9f9d/Ejercicio%201%20-%20Sesion%203.jpeg)
+![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/93aec169515d019ae3d3e64ddf7cb3c83e9db49f/Ejercicio%201%20-%20Sesion%204.jpeg)
+![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/93aec169515d019ae3d3e64ddf7cb3c83e9db49f/Ejercicio%201%20-%20Sesion%205.jpeg)
+![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/93aec169515d019ae3d3e64ddf7cb3c83e9db49f/Ejercicio%201%20-%20Sesion%206%20P1.jpeg)
+![image alt](https://github.com/guzzj3nn/Inteligencia-Artificial-II-IS5-N/blob/93aec169515d019ae3d3e64ddf7cb3c83e9db49f/Ejercicio%201%20-%20Sesion%206%20P2.jpeg)
